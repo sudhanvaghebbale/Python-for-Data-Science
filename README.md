@@ -58,6 +58,7 @@ This repository contains a basic tutorial of Numpy, Pandas, Matplotlib, Seaborn 
   * Plotly is one of the most commonly used packages to perform interactive visualizations. Various functions that could be performed using the plotly package:
     * Area Plots
     * Scatter Plots
+    * Word Count
 
-  * To get a detailed insight into plotly, check out this tutorial: https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners
+  * To get a detailed insight into plotly, check out this tutorial: https://plotly.com/python/plotly-fundamentals
   * The plotly file does not show the interactive graphs to GitHub. Therefore, have a look at this following link: https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners
